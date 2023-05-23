@@ -49,6 +49,7 @@ conda install -n "$ENV" -y "${REPOS[@]}" freebayes
 conda install -n "$ENV" -y "${REPOS[@]}" gatk
 conda install -n "$ENV" -y "${REPOS[@]}" lumpy-sv
 conda install -n "$ENV" -y "${REPOS[@]}" breakdancer
+
 # complete here
 
 
